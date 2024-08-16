@@ -9,4 +9,8 @@ public class Appcontroller {
     public String home() {
         return "Hello, World!";
     }
+    @GetMapping("/home")
+    public String homepage() {
+        return "home";
+    }
 }
