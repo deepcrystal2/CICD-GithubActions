@@ -57,5 +57,5 @@ jobs:
         run: aws deploy create-deployment
           --application-name bulletin-server
           --deployment-group-name Production
-          --deployment-config-name CodeDeployDefault.OneAtOnce
+          --deployment-config-name CodeDeployDefault.AllAtOnce
           --s3-location bucket=jy-bulletin-server,bundleType=tgz,key=$GITHUB_SHA.tar.gz
