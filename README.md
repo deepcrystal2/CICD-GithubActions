@@ -1,1 +1,5 @@
-https://techblog.deepcrystal2.site/CI-CD-CI-CD-Docker-CodeDeploy-28b66a6d0a89438a86a56cb606fd3f83
+## CICD Architecture
+![](https://github.com/deepcrystal2/CICD-GithubActions/blob/main/github%20pipeline%20architecture.png)
+
+## CICD 흐름도
+![](https://github.com/deepcrystal2/CICD-GithubActions/blob/main/github%20pipeline%20architecture.png)
